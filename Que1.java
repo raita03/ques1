@@ -9,7 +9,7 @@ public class Que1 {
     }
 
     public static void main(String[] args) {
-        customPrint(5, “Hello, World!”);
+        customPrint(5, "Hello, World!");
     }
 
 }
